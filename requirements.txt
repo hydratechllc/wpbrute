@@ -1,0 +1,4 @@
+selenium
+validators
+termcolor
+geckodriver_autoinstaller
